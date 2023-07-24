@@ -1,5 +1,5 @@
 ## Office Hours Agenda
-### Wednesday, July 24th
+### Monday, July 24th
 
 - Developer Portal
   - Posted
