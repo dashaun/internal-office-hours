@@ -22,11 +22,19 @@
     - 2.6 ends Feb 24, 2024
     - 2.7 ends Feb 18, 2024
   - VMware Spring Runtime
-    - Included with TAS
+    - Included with PCF/TAS
     - Prioritized support
     - Extends support for Spring Boot 2.7
       - https://spring.io/projects/spring-boot#support
+  - Supported Data Tier Patterns
+    - Leader-Follower Pair MySQL
+    - RabbitMQ Writes, with Leader-Follower Pair MySQL
+    - GemFire, active-active
+    - Stream processing with Spring Cloud Data Flow
 - Demo
+  - Upgrading to Spring Boot 3.1.2
+    - Crawl with Spring Boot Migrator
+    - Walk with Spring CLI & `recipes` like OpenRewrite
 - Q&A
 
 ## See Also
